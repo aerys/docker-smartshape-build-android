@@ -1,0 +1,1 @@
+# docker-smartshape-build-android
